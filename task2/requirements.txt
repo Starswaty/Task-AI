@@ -1,0 +1,6 @@
+streamlit
+tweepy
+pandas
+matplotlib
+vaderSentiment
+python-dotenv

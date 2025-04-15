@@ -1,0 +1,42 @@
+# 💹 Currency Impact Analyzer for IT Companies
+
+A complete analytics dashboard that monitors daily fluctuations in key foreign exchange (forex) rates and compares them with the stock performance of top Indian IT companies. This tool helps investors, analysts, and stakeholders understand the real-time impact of currency changes—especially USD/INR—on Indian IT companies that generate significant revenue from global markets.
+
+---
+
+## 📘 Project Description
+
+Indian IT giants like TCS, Infosys, and Wipro earn a large chunk of their revenue from overseas clients, especially in the United States. As a result, even minor fluctuations in currency exchange rates can significantly impact their earnings.
+
+This app performs the following:
+
+-  Tracks daily forex rates for major currencies against INR
+-  Monitors stock prices of top Indian IT companies
+-  Calculates and visualizes daily percentage change
+-  Sends alerts when exchange rate changes exceed a defined threshold
+-  Presents a clean, modern, and interactive UI via Streamlit
+
+---
+
+##  Key Features
+
+| Feature | Description |
+|--------|-------------|
+|  **Live Forex Rates** | Real-time currency exchange rates using Twelve Data API |
+|  **Stock Price Tracking** | NSE stock prices for top IT companies using Yahoo Finance |
+|  **Trend Comparison** | Overlays currency trend and stock trend graphs |
+|  **Percentage Change Calculation** | Understand daily volatility impact |
+|  **In-App & Email Alerts** | Custom threshold-based alert system |
+|  **Modern Streamlit UI** | Fully interactive, elegant design with dark theme plots |
+
+---
+
+##  Why It Matters
+
+-  **Business Impact**: A 1% change in USD/INR can significantly affect IT company earnings.
+-  **Investment Insight**: Helps investors correlate currency changes with stock movement.
+-  **Quick Decision Making**: Visual analytics improve reaction time during high volatility.
+
+---
+
+
