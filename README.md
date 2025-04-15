@@ -1,4 +1,4 @@
-# 💼 Project - Task 1 to Task 7 (AI + Finance Internship Assignments)
+#  Project - Task 1 to Task 7 (Internship Assignments)
 
 ## 📌 Overview
 
